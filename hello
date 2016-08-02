@@ -1,0 +1,8 @@
+edit hello!
+this is vi, a basic text editor
+i got here by typing vi newtest
+use w, b, e to move thru words faster
+0/$ to move to st/end of line
+ZZ to save quit, :w to save but not quit, :q to just quit
+i to get into insert mode, esc to command mode
+commands are case sensitive
